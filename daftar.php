@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-include_once 'koneksi.php';
+include_once "koneksi.php";
 
 if (isset($_POST['submit']))
 {
